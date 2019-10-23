@@ -1,6 +1,6 @@
 var splice = require('remove-array-items')
 var nanotiming = require('nanotiming')
-var assert = require('assert')
+var assert = require('nanoassert')
 
 module.exports = Nanobus
 
